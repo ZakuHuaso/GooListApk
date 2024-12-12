@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Descarga tu aplicación</h1>
-    <a href="app-debug.apk" download>Haz clic aquí para descargar la APK</a>
+    <a href="app-debug.apk" download="GooList" >Haz clic aquí para descargar la APK</a>
 </body>
 </html>
